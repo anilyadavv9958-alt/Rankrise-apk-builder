@@ -1,7 +1,5 @@
+
 {
-  "appName": "RankRise AI",
-  "appId": "com.rankriseai.exam",
-  "versionName": "1.0.0",
-  "versionCode": 1,
-  "url": "YAHAN_PUBLISHED_URL"
+  "source": "clone",
+  "builds": ["rankrise-ai"]
 }
