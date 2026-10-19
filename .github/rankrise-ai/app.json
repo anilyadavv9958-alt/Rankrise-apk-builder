@@ -1,0 +1,13 @@
+
+{
+  "appName": "RankRise AI",
+  "appId": "com.rankriseai.exam",
+  "versionName": "1.0.0",
+  "versionCode": 1,
+  "apkName": "RankRise-AI",
+  "url": "https://rankrise-ai-official-exam-prep.ai.studio",
+  "allowNavigation": ["*.ai.studio"],
+  "orientation": "portrait",
+  "backgroundColor": "#0f1115",
+  "splashColor": "#0f1115"
+}
